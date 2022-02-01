@@ -350,10 +350,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 
 ![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
-
-<div align="center">
-    <h4>
-        "There is nothing stronger than a soft heart that refuses to harden"
-    </h4>
-</div>
-
