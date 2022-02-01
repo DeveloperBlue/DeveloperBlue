@@ -41,12 +41,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
-    <br>
-    <a href="https://michaelrooplall.com/experience.html">More</a>
 </div>
 <details>
     <summary><strong>Show/Hide all badges</strong></summary>
-      <div align="center">
+      <div align="left">
         <h4>Languages</h4>
         <img align="center" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -83,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="right">
         <h4>Frameworks</h4>
         <img align="center" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=flat-square&logo=antdesign&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -170,7 +168,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         >> Wireshark
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="left">
         <h4>Mobile Frameworks</h4>
         <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -179,7 +177,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="right">
         <h4>Databases</h4>
         <img align="center" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -192,7 +190,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="left">
         <h4>Design</h4>
         <img align="center" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat-square&logo=Adobe%20after%20effects&logoColor=393665" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -221,14 +219,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         >> OBS
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="right">
         <h4>Vision Processing and AI</h4>
         <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="left">
         <h4>Cloud Infrastructure</h4>
         <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -243,7 +241,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="right">
         <h4>Engines</h4>
         <img align="center" src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -252,7 +250,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         >> ROBLOX STUDIO
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="left">
         <h4>Editors</h4>
         <img align="center" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -265,7 +263,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="right">
         <h4>Office Tools</h4>
         <img align="center" src="https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=flat-square&logo=ApacheOpenOffice&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -282,7 +280,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="left">
         <h4>Operating Systems</h4>
         <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -291,7 +289,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
-    <div align="center">
+    <div align="right">
         <h4>Robotics and Prototyping</h4>
         <img align="center" src="https://img.shields.io/badge/adafruit-000000?style=flat-square&logo=adafruit&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -305,12 +303,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <br><br>
     <div align="center">
         <h4>Spoken Languages</h4>
-        - English
-        - Spanish
-        - French
-        - Mandarin
-        - Korean
-        - Japanese
+        English - Spanish - French - Mandarin - Korean - Japanese
     </div>
 </details>
 
