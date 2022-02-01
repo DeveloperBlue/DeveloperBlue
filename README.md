@@ -14,9 +14,7 @@
         <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f77d3d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&color=70a4fc"/>
     </a>
 </div>
-
 ---
-
 <div align="center">
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
@@ -38,8 +36,7 @@
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
 </div>
 
-
-## Hi there 👋
+# Hi there 👋
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -54,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div align="right">
     <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more</a>
 </div>
-
+<br><br>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&show_icons=true&theme=tokyonight&border_color=9b9b9e" width="49.725%" />
@@ -339,15 +336,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         >>> FIRST ROBOTICS COMPETITION
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
     </div>
-    <br><br>
-    <div align="center">
-        <h4>Spoken Languages</h4>
-        English - Spanish - French - Mandarin - Korean - Japanese
-    </div>
+    <br>
 </details>
 
 ---
 
 <br>
 
+<div align="center">
+    <h4>Spoken Languages / Learning</h4>
+    English - Spanish - French - Mandarin - Korean - Japanese
+</div>
+
 ![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
+
+<h4>
+    "There is nothing stronger than a soft heart that refuses to harden"
+</h4>
