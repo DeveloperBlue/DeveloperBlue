@@ -4,23 +4,18 @@
     <a href="https://twitter.com/MichaelRooplall" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=70a4fc"/>
     </a>
-    <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
     <a href="https://www.linkedin.com/in/michael-rooplall/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=70a4fc"/>
     </a>
-    <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
     <a href="https://medium.com/@michaelrooplall" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=70a4fc"/>
     </a>
-    <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
     <a href="https://www.buymeacoffee.com/michaelrooplall" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f77d3d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&color=70a4fc"/>
     </a>
-    <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
     <a href="https://www.michaelrooplall.com/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/MichaelRooplall.com-f77d3d?style=for-the-badge&logoColor=white&color=70a4fc&label=Website&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADdYAAA3WAZBveZwAAAEiSURBVDhPndK7SgNREIDhPaJgCms7KyOxEAsRWxHSpBWshMCCKbwUPoH4BNoLFpJKEEmTxiBKsJBgIRZGsbLzCRQU1v8P4wO4Ax87nDOzs5eTsoiiKMyXsIV5TMP4wDNO8JBSKlwcNdI0zmUT65jFPhZgPOEIb7hAm+afMRIjxw4uMcAtPoO5a+5ZY22WmLbM9QDvWMQE2liBcQ+f5huPmMGhE5voMH6bax93cNJUMHetHzUdNG2s4QbGJLoU+CGuFHk39gxraz7qC8kpvPMGfJ9XrMG4xhx8pXNUkP99nP8HE3uoRn6MeuR7irzuXuRV9Jw4xKqLxBcabHgIvIEN5o3YM6wdlv4dGI1vYYAcZ6hgN5i75p41LXtKH7mShzzLfgGu8au0wvyXWgAAAABJRU5ErkJggg=="/>
+        <img align="center" src="https://img.shields.io/badge/MichaelRooplall-f77d3d?style=for-the-badge&logoColor=white&color=70a4fc&label=Website&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADdYAAA3WAZBveZwAAAEiSURBVDhPndK7SgNREIDhPaJgCms7KyOxEAsRWxHSpBWshMCCKbwUPoH4BNoLFpJKEEmTxiBKsJBgIRZGsbLzCRQU1v8P4wO4Ax87nDOzs5eTsoiiKMyXsIV5TMP4wDNO8JBSKlwcNdI0zmUT65jFPhZgPOEIb7hAm+afMRIjxw4uMcAtPoO5a+5ZY22WmLbM9QDvWMQE2liBcQ+f5huPmMGhE5voMH6bax93cNJUMHetHzUdNG2s4QbGJLoU+CGuFHk39gxraz7qC8kpvPMGfJ9XrMG4xhx8pXNUkP99nP8HE3uoRn6MeuR7irzuXuRV9Jw4xKqLxBcabHgIvIEN5o3YM6wdlv4dGI1vYYAcZ6hgN5i75p41LXtKH7mShzzLfgGu8au0wvyXWgAAAABJRU5ErkJggg=="/>
     </a>
-    <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
 </div>
 
 ---
