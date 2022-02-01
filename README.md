@@ -27,14 +27,14 @@
 - Santa's Secret Sorting Hat
 - FIRST Robotics
 
-![More Projects . . .](https://www.michaelrooplall.com/Projects.html)
+<a align="right" href="https://www.michaelrooplall.com/Projects.html">See more projects . . .</a>
 
 #### Articles
 
 - Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron
 - Vision Processing and Target Tracking using OpenCV
 
-![More Articles on Medium . . .](https://medium.com/@michaelrooplall)
+<a align="right" href="https://medium.com/@michaelrooplall">Read more articles on Medium . . .</a>
 
 ---
 
