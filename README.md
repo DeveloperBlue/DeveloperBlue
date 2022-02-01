@@ -42,6 +42,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
 </div>
+
+### Top Projects
+
+- Project Stream
+- React-Native-Web-Electron Quickstart Template
+- Hamiltour
+- Santa's Secret Sorting Hat
+- FIRST Robotics
+
+<div align="right">
+    <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more</a>
+</div>
+
+---
+
 <details>
     <summary><strong>Show/Hide all badges</strong></summary>
       <div align="left">
@@ -307,17 +322,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </div>
 </details>
 
-### Top Projects
-
-- Project Stream
-- React-Native-Web-Electron Quickstart Template
-- Hamiltour
-- Santa's Secret Sorting Hat
-- FIRST Robotics
-
-<div align="right">
-    <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more</a>
-</div>
 
 ---
 
