@@ -123,8 +123,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </div>
     <div align="center">
         <h4>Frameworks</h4>
-        <img align="center" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
-        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />
@@ -151,8 +149,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
-        <img align="center" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
-        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
@@ -163,17 +159,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
-        <img align="center" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
+        <img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" />
+        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
+        <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
@@ -208,10 +206,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         [Wireshark]
-        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
-        <img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
-        <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     </div>
     <div align="center">
         <h4>Mobile Frameworks</h4>
@@ -247,11 +241,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
+        <img align="center" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
+        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
+        <img align="center" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
+        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
+        [Handbrake]
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
@@ -259,7 +259,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         [MAGIX/Sony VEGAS]
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
-        [Handbrake]
+        <img align="center" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         [Open Broadcast Software]
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
