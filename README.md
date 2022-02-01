@@ -21,18 +21,6 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Top Projects
-
-- Project Stream
-- React-Native-Web-Electron Quickstart Template
-- Hamiltour
-- Santa's Secret Sorting Hat
-- FIRST Robotics
-
-<div align="right">
-    <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more</a>
-</div>
-
 <div align="center">
     <h3>Main Languages and Frameworks</h3>
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -56,7 +44,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <br>
     <a href="https://michaelrooplall.com/experience.html">More</a>
 </div>
-<br>
 <details>
     <summary><strong>Show/Hide all badges</strong></summary>
       <div align="center">
@@ -327,6 +314,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </div>
 </details>
 
+### Top Projects
+
+- Project Stream
+- React-Native-Web-Electron Quickstart Template
+- Hamiltour
+- Santa's Secret Sorting Hat
+- FIRST Robotics
+
+<div align="right">
+    <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more</a>
+</div>
 
 ---
 
