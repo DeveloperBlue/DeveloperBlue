@@ -338,11 +338,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </div>
     <br>
 </details>
-
 ---
-
-<br>
-
 <div align="center">
     <h4>Spoken Languages / Learning</h4>
     English - Spanish - French - Mandarin - Korean - Japanese
@@ -350,6 +346,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
 
-<h4>
-    "There is nothing stronger than a soft heart that refuses to harden"
-</h4>
+<div align="center">
+    <h4>
+        "There is nothing stronger than a soft heart that refuses to harden"
+    </h4>
+</div>
+
