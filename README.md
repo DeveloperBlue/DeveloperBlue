@@ -79,8 +79,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Articles
 
-- Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron
-- Vision Processing and Target Tracking using OpenCV
+- [Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron](https://medium.com/@michaelrooplall)
+- [Vision Processing and Target Tracking using OpenCV](https://medium.com/@michaelrooplall)
+- [Robotics | The Sentinels Graciously Accept The George Subraj Family Foundation Sponsorship](https://blog.team5599.com/2020/01/the-george-subraj-family-foundation.html)
+- [Robotics | Introduction to Java and FRC Libraries for High School Students - 2016 Lessons Archive](https://www.dropbox.com/sh/at3f8bxcg968pnr/AAANgmZkrAL9IpxEiz7buFxRa?dl=0)
 
 <div align="right">
     <a align="right" href="https://medium.com/@michaelrooplall">Read more</a>
