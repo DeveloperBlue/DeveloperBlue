@@ -36,7 +36,7 @@
 	<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 	<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-	<img align="center" src="https://via.placeholder.com/300x5/000000ff">
+	<img align="center" src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAASwAAAABCAQAAADOMVuiAAAAD0lEQVR42mNkGAWjgAYAAASyAAKhcQCGAAAAAElFTkSuQmCC">
 	<img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 	<img align="center" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
 	<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
