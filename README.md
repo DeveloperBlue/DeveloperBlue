@@ -22,8 +22,12 @@
 ## Skill Badges
 
 <div>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&show_icons=true&theme=tokyonight&border_color=6d6e75#gh-dark-mode-only" width="49.725%" />
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight#gh-dark-mode-only" width="49.725%"/>
+	<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&show_icons=true&theme=tokyonight&border_color=#6d6e75" width="49.725%" />
+	</a>
+	<a href="https://git.io/streak-stats#gh-dark-mode-only">
+		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight" width="49.725%"/>
+	</a>
 </div>
 <br>
 
