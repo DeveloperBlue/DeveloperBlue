@@ -15,11 +15,28 @@
 	</a>
 </div>
 
+---
+
 ### Hi there 👋
 
-### Top Projects & Articles
+#### Top Projects
 
-### Skill Badges
+- Project Stream
+- React-Native-Web-Electron Quickstart Template
+- Hamiltour
+- Santa's Secret Sorting Hat
+- FIRST Robotics
+
+![More Projects . . .](https://www.michaelrooplall.com/Projects.html)
+
+#### Articles
+
+- Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron
+- Vision Processing and Target Tracking using OpenCV
+
+![More Articles on Medium . . .](https://medium.com/@michaelrooplall)
+
+---
 
 <div>
 	<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
