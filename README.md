@@ -38,7 +38,7 @@
 	<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 	<img align="center" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
-	<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAhCAQAAAC7W6lOAAAAEElEQVR42mNkgAPGUSZNmQAZhgAi62tRgwAAAABJRU5ErkJggg==">
+	<img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAhCAQAAAC7W6lOAAAAEElEQVR42mNkgAPGUSZNmQAZhgAi62tRgwAAAABJRU5ErkJggg==" width='5' height='33'>
 	<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
