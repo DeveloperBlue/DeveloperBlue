@@ -27,7 +27,9 @@
 - Santa's Secret Sorting Hat
 - FIRST Robotics
 
-<a align="right" href="https://www.michaelrooplall.com/Projects.html">See more . . .</a>
+<div align="right">
+	<a align="right" href="https://www.michaelrooplall.com/Projects.html">See more</a>
+</div>
 
 <div align="center">
 	<h3>Main Languages and Frameworks</h3>
@@ -36,7 +38,7 @@
 	<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 	<img align="center" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
-	<br><br>
+	<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAhCAQAAAC7W6lOAAAAEElEQVR42mNkgAPGUSZNmQAZhgAi62tRgwAAAABJRU5ErkJggg==">
 	<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -46,7 +48,7 @@
 </div>
 <br>
 <details>
-  <summary><strong>See more languages, skills, and frameworks</strong></summary>
+  <summary><h3><strong>See more languages, skills, and frameworks</strong></h3></summary>
   
   #### Languages
 <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -226,7 +228,7 @@
 - Vision Processing and Target Tracking using OpenCV
 
 <div align="right">
-	<a align="right" href="https://medium.com/@michaelrooplall">Read more . . .</a>
+	<a align="right" href="https://medium.com/@michaelrooplall">Read more</a>
 </div>
 
 ![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
