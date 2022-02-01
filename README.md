@@ -30,7 +30,7 @@
 <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more . . .</a>
 
 <div align="center">
-	<h3>Top Languages and Frameworks</h3>
+	<h3>Main Languages and Frameworks</h3>
 	<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 	<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -225,6 +225,8 @@
 - Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron
 - Vision Processing and Target Tracking using OpenCV
 
-<a align="right" href="https://medium.com/@michaelrooplall">Read more . . .</a>
+<div align="right">
+	<a align="right" href="https://medium.com/@michaelrooplall">Read more . . .</a>
+</div>
 
 ![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
