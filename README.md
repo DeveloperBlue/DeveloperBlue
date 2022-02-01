@@ -19,7 +19,7 @@
 
 ### Hi there 👋
 
-#### Top Projects
+### Top Projects
 
 - Project Stream
 - React-Native-Web-Electron Quickstart Template
@@ -31,8 +31,8 @@
 
 <a href="https://michaelrooplall.com/experience.html">And more . . .</a>
 
-#### Top Languages and Frameworks
-<div>
+### Top Languages and Frameworks
+<div align="left">
 	<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 	<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -46,7 +46,7 @@
 </div>
 <br>
 <details>
-  <summary>**See more languages, skills, and frameworks**</summary>
+  <summary><strong>See more languages, skills, and frameworks</strong></summary>
   
   #### Languages
 <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -220,7 +220,7 @@
 </div>
 <br>
 
-#### Articles
+### Articles
 
 - Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron
 - Vision Processing and Target Tracking using OpenCV
