@@ -14,7 +14,9 @@
         <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f77d3d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&color=70a4fc"/>
     </a>
 </div>
+
 ---
+
 <div align="center">
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
@@ -51,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div align="right">
     <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more</a>
 </div>
-<br><br>
+<br>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&show_icons=true&theme=tokyonight&border_color=9b9b9e" width="49.725%" />
@@ -78,6 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 
 ---
+
 <details>
     <summary><strong>Show/Hide all badges</strong></summary>
       <div align="center">
@@ -338,7 +341,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </div>
     <br>
 </details>
+
 ---
+
 <div align="center">
     <h4>Spoken Languages / Learning</h4>
     English - Spanish - French - Mandarin - Korean - Japanese
