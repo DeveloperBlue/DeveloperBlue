@@ -293,7 +293,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
-        >> ROBLOX STUDIO
+        <img align="center" src="https://img.shields.io/badge/-Roblox%20Studio-db2319?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAHpJREFUOE/Fk90NgCAMhK/zuYybuIz7nWljSSXSaoiRJ6Dw9fcEYZGkHkVE4n22vzx0QP8hAz4CZMAGGHmvUvkXoLWZiqABqupndovgM0A6QGf6QnIBsFftGs2CAmx83y5vwDzgTkxVNLH9qeqq7phyK29uJ7kC2Hq5Hxh1SAnD5MgwAAAAAElFTkSuQmCC" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
     </div>
     <div align="center">
