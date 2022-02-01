@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Intro
+<img src="https://dummyimage.com/880x320/fff/aaa"/>
 
 <div>
 	<a href="https://twitter.com/MichaelRooplall" target="_blank">
@@ -17,9 +15,11 @@
 	</a>
 </div>
 
-## Top Projects & Articles
+### Hi there 👋
 
-## Skill Badges
+### Top Projects & Articles
+
+### Skill Badges
 
 <div>
 	<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
