@@ -51,11 +51,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Top Projects
 
-- Project Stream
-- React-Native-Web-Electron Quickstart Template
-- Hamiltour
-- Santa's Secret Sorting Hat
-- FIRST Robotics
+- [Project Stream](https://projectstream.xyz:3000/)
+- [React-Native-Web-Electron Quickstart Template](https://medium.com/@michaelrooplall)
+- [Hamiltour](https://www.seidenbergcreativelabs.com/projects)
+- [Santa's Secret Sorting Hat](https://secret-santa-manager.glitch.me/)
+- [FIRST Robotics](https://www.team5599.com/Robots.html)
 
 <div align="right">
     <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more</a>
