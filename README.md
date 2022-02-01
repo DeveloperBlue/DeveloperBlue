@@ -149,6 +149,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
+        <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
+        <img align="center" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
@@ -199,13 +203,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
+        [Wireshark]
+        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
         <img align="center" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
-        <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
-        <img align="center" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
-        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
-        [Wireshark]
     </div>
     <div align="center">
         <h4>Mobile Frameworks</h4>
