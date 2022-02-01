@@ -56,10 +56,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 <br>
 <details>
-  	<summary><strong>Click to see more languages, skills, and frameworks</strong></summary>
+	<summary><strong>Click to see more languages, skills, and frameworks</strong></summary>
 
-  	<a href="https://michaelrooplall.com/experience.html">Check out my skills and experiences ↗️</a>
-  
+	<a href="https://michaelrooplall.com/experience.html">Check out my skills and experiences ↗️</a>
+	
   	<div align="center">
 		<h4>Languages</h4>
 		<img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
