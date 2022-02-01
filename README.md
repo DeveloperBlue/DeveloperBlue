@@ -37,8 +37,6 @@
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
     <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
     <a href="https://www.michaelrooplall.com/experience.html" target="_blank">
         <img align="center" src="https://img.shields.io/badge/See%20More-f77d3d?style=for-the-badge&logoColor=white&labelColor=2b2e3a&color=1a1b27&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADdYAAA3WAZBveZwAAAEiSURBVDhPndK7SgNREIDhPaJgCms7KyOxEAsRWxHSpBWshMCCKbwUPoH4BNoLFpJKEEmTxiBKsJBgIRZGsbLzCRQU1v8P4wO4Ax87nDOzs5eTsoiiKMyXsIV5TMP4wDNO8JBSKlwcNdI0zmUT65jFPhZgPOEIb7hAm+afMRIjxw4uMcAtPoO5a+5ZY22WmLbM9QDvWMQE2liBcQ+f5huPmMGhE5voMH6bax93cNJUMHetHzUdNG2s4QbGJLoU+CGuFHk39gxraz7qC8kpvPMGfJ9XrMG4xhx8pXNUkP99nP8HE3uoRn6MeuR7irzuXuRV9Jw4xKqLxBcabHgIvIEN5o3YM6wdlv4dGI1vYYAcZ6hgN5i75p41LXtKH7mShzzLfgGu8au0wvyXWgAAAABJRU5ErkJggg=="/>
     </a>
@@ -63,10 +61,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&show_icons=true&theme=tokyonight&border_color=9b9b9e" width="49.725%" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=9b9b9e" width="49.725%" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&show_icons=true&theme=default&border_color=d8dee4" width="49.725%" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=default&border_color=d8dee4" width="49.725%" />
     </a>
     <a href="https://git.io/streak-stats#gh-dark-mode-only">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight" width="49.725%"/>
