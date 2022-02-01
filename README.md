@@ -17,10 +17,6 @@
 
 ---
 
-### Hi there 👋
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 <div align="center">
     <h3>Main Languages and Frameworks</h3>
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -43,6 +39,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
 </div>
 
+
+### Hi there 👋
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 ### Top Projects
 
 - Project Stream
@@ -55,8 +56,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more</a>
 </div>
 
----
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&show_icons=true&theme=tokyonight&border_color=9b9b9e" width="49.725%" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&show_icons=true&theme=default&border_color=d8dee4" width="49.725%" />
+    </a>
+    <a href="https://git.io/streak-stats#gh-dark-mode-only">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight" width="49.725%"/>
+    </a>
+    <a href="https://git.io/streak-stats#gh-light-mode-only">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight_duo&border=d8dee4" width="49.725%"/>
+    </a>
+</div>
+<br>
 
+### Articles
+
+- Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron
+- Vision Processing and Target Tracking using OpenCV
+
+<div align="right">
+    <a align="right" href="https://medium.com/@michaelrooplall">Read more</a>
+</div>
+
+---
 <details>
     <summary><strong>Show/Hide all badges</strong></summary>
       <div align="left">
@@ -322,32 +347,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </div>
 </details>
 
-
----
-
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&show_icons=true&theme=tokyonight&border_color=9b9b9e" width="49.725%" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&show_icons=true&theme=default&border_color=d8dee4" width="49.725%" />
-    </a>
-    <a href="https://git.io/streak-stats#gh-dark-mode-only">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight" width="49.725%"/>
-    </a>
-    <a href="https://git.io/streak-stats#gh-light-mode-only">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight_duo&border=d8dee4" width="49.725%"/>
-    </a>
-</div>
 <br>
-
-### Articles
-
-- Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron
-- Vision Processing and Target Tracking using OpenCV
-
-<div align="right">
-    <a align="right" href="https://medium.com/@michaelrooplall">Read more</a>
-</div>
 
 ![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
