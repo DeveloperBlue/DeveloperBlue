@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
-        <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -100,7 +100,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <h4>Frameworks</h4>
         <img align="center" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=flat-square&logo=antdesign&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
-        <img align="center" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat-square&logo=Apollo%20GraphQL&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -160,7 +160,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
-        <img align="center" src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/redis-CC0000.svg?&style=flat-square&logo=redis&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -168,7 +168,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
-        <img align="center" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/Socket.io-010101?&style=flat-square&logo=Socket.io&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/ThreeJs-black?style=flat-square&logo=three.js&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -202,7 +202,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
-        <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
     </div>
     <div align="center">
@@ -271,9 +271,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
-        <img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+        <img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
-        <img align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
@@ -313,7 +313,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white" />
         <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
         >>> FIRST ROBOTICS COMPETITION
-        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='32px'>
+        <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/5px-line-spacing.png?raw=true" width='0px' height='38px'>
     </div>
     <br><br>
     <div align="center">
