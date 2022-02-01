@@ -32,7 +32,7 @@
 <a href="https://michaelrooplall.com/experience.html">And more . . .</a>
 
 ### Top Languages and Frameworks
-<div align="left">
+<div align="right">
 	<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 	<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
