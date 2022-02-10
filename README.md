@@ -50,9 +50,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Top Projects
 
 - [Project Stream](https://projectstream.xyz:3000/)
-- [React-Native-Web-Electron Quickstart Template](https://medium.com/@michaelrooplall)
+- [React-Native-Web-Electron Quickstart Template](https://github.com/DeveloperBlue/react-native-web-electron-quickstart)
 - [Hamiltour](https://www.seidenbergcreativelabs.com/projects)
-- [Santa's Secret Sorting Hat](https://secret-santa-manager.glitch.me/)
+- [Secret Santa Manager](https://secret-santa-manager.glitch.me/)
 - [FIRST Robotics](https://www.team5599.com/Robots.html)
 
 <div align="right">
@@ -77,11 +77,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Articles
 
-⏲️ - Coming Soon
+🚧 - Coming Soon
 
-- [⏲️ Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron](https://medium.com/@michaelrooplall)
-- [⏲️ Vision Processing and Target Tracking using OpenCV](https://medium.com/@michaelrooplall)
-- [⏲️ Deploying your own API to RapidAPI](https://medium.com/@michaelrooplall)
+- [🚧 Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron](https://medium.com/@michaelrooplall)
+- [🚧 Vision Processing and Target Tracking using OpenCV](https://medium.com/@michaelrooplall)
+- [🚧 Deploying your own API to RapidAPI](https://medium.com/@michaelrooplall)
 - [Robotics | The Sentinels Graciously Accept The George Subraj Family Foundation Sponsorship](https://blog.team5599.com/2020/01/the-george-subraj-family-foundation.html)
 - [Robotics | Introduction to Java and FRC Libraries for High School Students - 2016 Lessons Archive](https://www.dropbox.com/sh/at3f8bxcg968pnr/AAANgmZkrAL9IpxEiz7buFxRa?dl=0)
 
@@ -358,5 +358,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <h4>Spoken Languages / Learning</h4>
     English - Spanish - French - Mandarin - Korean - Japanese
 </div>
+<br>
 
 ![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
