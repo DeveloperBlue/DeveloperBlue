@@ -45,7 +45,16 @@
 
 # Hi there 👋
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My name is Michael Rooplall. I'm a full stack software developer building anything from websites and mobile applications to all other forms of full scale systems. I have a Bachelors of Science in Computer Science from Pace University and over 9 years of active experience in development. I graduated May, 2021, from the Seidenberg School of CSIS and the Pforzheimer Honors College.
+
+I started doing Software Development in early high school, building revenue-generating games and contracting on different platforms. I later joined my school's Robotics Team (FRC Team 5599, The Sentinels), where I spent two years as the Team Captain and Lead Software Developer. We've been competing in the FIRST Robotics Competition (FRC) for over 6 years.
+
+I do consulting and contracting on the side, as I have built up a wealth of experience and skills over the years through my interests in hobby development.
+My specialties are in NodeJS systems and applications (React Native, React, Electron, etc.) and web development, with a history of extensive work designing, building, and maintaining full stack systems. 
+
+In my free time, I enjoy developing as a hobby. I play badminton, watch anime, and have a love for learning spoken languages. I also go back to my high school to mentor students on CS and Robotics.
+
+For a full list of my skills, accomplishments, writeups, and projects: feel free to head over to my website [https://michaelrooplall.com/](https://michaelrooplall.com/)
 
 ### Top Projects
 
@@ -77,11 +86,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Articles
 
-🚧 - Coming Soon
+✨ - Latest | 🚧 - Coming Soon | 💡 - Parking/Writing-As-Requested
 
 - [🚧 Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron](https://medium.com/@michaelrooplall)
-- [🚧 Vision Processing and Target Tracking using OpenCV](https://medium.com/@michaelrooplall)
-- [🚧 Deploying your own API to RapidAPI](https://medium.com/@michaelrooplall)
+- [💡 Adding Hot Module Reloading to Electron with Webpack](https://medium.com/@michaelrooplall)
+- [💡 Adding SVG Support for Android, iOS, and the Web with React Native and React-Native-Web](https://medium.com/@michaelrooplall)
+- [💡 Building secure application APIs with Electron's Context Isolation](https://medium.com/@michaelrooplall)
+- [💡 Packaging an Electron Application for Production and Distribution](https://medium.com/@michaelrooplall)
+- [💡 Deploying your own API to RapidAPI](https://medium.com/@michaelrooplall)
 - [Robotics | The Sentinels Graciously Accept The George Subraj Family Foundation Sponsorship](https://blog.team5599.com/2020/01/the-george-subraj-family-foundation.html)
 - [Robotics | Introduction to Java and FRC Libraries for High School Students - 2016 Lessons Archive](https://www.dropbox.com/sh/at3f8bxcg968pnr/AAANgmZkrAL9IpxEiz7buFxRa?dl=0)
 
