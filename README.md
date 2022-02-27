@@ -60,10 +60,10 @@ For a full list of my skills, accomplishments, writeups, and projects: feel free
 ### Top Projects
 
 - [Project Stream](https://projectstream.xyz:3000/)
-- [React-Native-Web-Electron Quickstart Template](https://github.com/DeveloperBlue/react-native-web-electron-quickstart)
-- [Hamiltour](https://www.seidenbergcreativelabs.com/projects)
+- [React-Native-Positron Quickstart Template](https://github.com/DeveloperBlue/react-native-positron-quickstart)
+- [Hamiltour](https://michaelrooplall.com/projects.html)
 - [Secret Santa Manager](https://secret-santa-manager.glitch.me/)
-- [FIRST Robotics](https://www.team5599.com/Robots.html)
+- [FIRST Robotics](https://www.team5599.com/)
 
 <div align="right">
     <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more </a>
