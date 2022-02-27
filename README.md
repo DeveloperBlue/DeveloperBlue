@@ -56,6 +56,7 @@ In my free time, I enjoy developing as a hobby. I play badminton, watch anime, a
 
 For a full list of my skills, accomplishments, writeups, and projects: feel free to head over to my website [https://michaelrooplall.com/](https://michaelrooplall.com/)
 
+
 ### Top Projects
 
 - [Project Stream](https://projectstream.xyz:3000/)
