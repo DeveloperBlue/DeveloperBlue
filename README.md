@@ -90,7 +90,7 @@ For a full list of my skills, accomplishments, writeups, and projects: feel free
 
 ✨ - Latest | 🚧 - Coming Soon | 💡 - Parking/Writing-As-Requested
 
-- [🚧 Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron](https://medium.com/@michaelrooplall)
+- [✨ Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron](https://medium.com/@michaelrooplall)
 - [💡 Adding Hot Module Reloading to Electron with Webpack](https://medium.com/@michaelrooplall)
 - [💡 Adding SVG Support for Android, iOS, and the Web with React Native and React-Native-Web](https://medium.com/@michaelrooplall)
 - [💡 Building secure application APIs with Electron's Context Isolation](https://medium.com/@michaelrooplall)
