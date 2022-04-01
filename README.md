@@ -1,4 +1,5 @@
-<img src="https://dummyimage.com/880x320/fff/aaa"/>
+<img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/headers/3.png?raw=true#gh-dark-mode-only" width="100%" />
+<img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/headers/3.png?raw=true#gh-light-mode-only" width="100%" />
 
 <div>
     <a href="https://twitter.com/MichaelRooplall" target="_blank">
