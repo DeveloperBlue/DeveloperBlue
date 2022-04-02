@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/headers_no_img_center_text/2.png?raw=true#gh-dark-mode-only" width="100%" />
-<img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/headers_no_img_center_text/9.png?raw=true#gh-light-mode-only" width="100%" />
+<img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/headers_no_img_center_text/1.png?raw=true#gh-light-mode-only" width="100%" />
 
 <div>
     <a href="https://twitter.com/MichaelRooplall" target="_blank">
