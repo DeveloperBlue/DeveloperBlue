@@ -60,7 +60,7 @@ For a full list of my skills, accomplishments, writeups, and projects: feel free
 
 ### Top Projects
 
-- [Project Stream](https://projectstream.xyz:3000/)
+- [Project Stream](https://projectstream.xyz:3000/) // COMING SOON!
 - [React-Native-Positron Quickstart Template](https://github.com/DeveloperBlue/react-native-positron-quickstart)
 - [Hamiltour](https://michaelrooplall.com/projects.html)
 - [Secret Santa Manager](https://secret-santa-manager.glitch.me/)
