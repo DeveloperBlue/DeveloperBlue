@@ -72,16 +72,16 @@ For a full list of my skills, accomplishments, writeups, and projects: feel free
 <br>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=9b9b9e" width="49.725%" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=9b9b9e" width="47.85%" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=default&border_color=d8dee4" width="49.725%" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=default&border_color=d8dee4" width="47.85%" />
     </a>
     <a href="https://git.io/streak-stats#gh-dark-mode-only">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight" width="49.725%"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight" width="50.5%"/>
     </a>
     <a href="https://git.io/streak-stats#gh-light-mode-only">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight_duo&border=d8dee4" width="49.725%"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight_duo&border=d8dee4" width="50.5%"/>
     </a>
 </div>
 <br>
