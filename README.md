@@ -22,7 +22,6 @@
 ---
 
 <div align="center">
-    <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
     <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -36,6 +35,7 @@
     <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
     <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
     <img align="center" src="https://img.shields.io/badge/Java-e06c00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
     <a href="https://www.michaelrooplall.com/experience.html" target="_blank">
@@ -347,4 +347,4 @@ Check out my website [https://michaelrooplall.com/](https://michaelrooplall.com/
 
 [comment]: <> (Cool CSS injection discovered from https://x.com/gf_256/status/1799197013629645101)
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://github.com/DeveloperBlue/DeveloperBlue/blob/main/backgrounds/background_1.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://github.com/DeveloperBlue/DeveloperBlue/blob/main/backgrounds/background_1');]{x0000}$}
