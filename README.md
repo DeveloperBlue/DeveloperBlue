@@ -348,4 +348,4 @@ Check out my website [https://michaelrooplall.com/](https://michaelrooplall.com/
 [comment]: <> (Cool CSS injection discovered from https://x.com/gf_256/status/1799197013629645101)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://raw.githubusercontent.com/DeveloperBlue/DeveloperBlue/main/backgrounds/background_2_upscaled.jpg');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://raw.githubusercontent.com/DeveloperBlue/DeveloperBlue/main/backgrounds/background_2_upscaled.jpg');]{x0000}$}
