@@ -22,7 +22,6 @@
 ---
 
 <div align="center">
-    <img align="center" src="https://img.shields.io/badge/Java-e06c00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
     <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
@@ -37,6 +36,7 @@
     <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
     <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img align="center" src="https://img.shields.io/badge/Java-e06c00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/line-break-space.png?raw=true" width='0px' height='38px'>
     <a href="https://www.michaelrooplall.com/experience.html" target="_blank">
         <img align="center" src="https://img.shields.io/badge/See%20More-f77d3d?style=for-the-badge&logoColor=white&labelColor=2b2e3a&color=1a1b27&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADdYAAA3WAZBveZwAAAEiSURBVDhPndK7SgNREIDhPaJgCms7KyOxEAsRWxHSpBWshMCCKbwUPoH4BNoLFpJKEEmTxiBKsJBgIRZGsbLzCRQU1v8P4wO4Ax87nDOzs5eTsoiiKMyXsIV5TMP4wDNO8JBSKlwcNdI0zmUT65jFPhZgPOEIb7hAm+afMRIjxw4uMcAtPoO5a+5ZY22WmLbM9QDvWMQE2liBcQ+f5huPmMGhE5voMH6bax93cNJUMHetHzUdNG2s4QbGJLoU+CGuFHk39gxraz7qC8kpvPMGfJ9XrMG4xhx8pXNUkP99nP8HE3uoRn6MeuR7irzuXuRV9Jw4xKqLxBcabHgIvIEN5o3YM6wdlv4dGI1vYYAcZ6hgN5i75p41LXtKH7mShzzLfgGu8au0wvyXWgAAAABJRU5ErkJggg=="/>
@@ -46,25 +46,15 @@
 
 # Hi there 👋
 
-My name is Michael Rooplall. I'm a full stack software developer building anything from websites and mobile applications to all other forms of full scale systems. I have a Bachelors of Science in Computer Science from Pace University and over 9 years of active experience in development. I graduated May, 2021, from the Seidenberg School of CSIS and the Pforzheimer Honors College.
+My name is Michael Rooplall. I'm a full stack software developer building anything from websites and mobile applications to all other forms of full scale systems. I have a Bachelors of Science in Computer Science from Pace University and over 9 years of active experience in development. 
 
-I started doing Software Development in early high school, building revenue-generating games and contracting on different platforms. I later joined my school's Robotics Team (FRC Team 5599, The Sentinels), where I spent two years as the Team Captain and Lead Software Developer. We've been competing in the FIRST Robotics Competition (FRC) for over 6 years.
+I started coding in early high school, building games revenue-generating games on Roblox. I was the Team Captain and Lead Software Developer for my high school's FIRST Robotics Team - FRC Team 5599, The Sentinels. We've been competing in the FIRST Robotics Competition (FRC) for over 8 years. Now, I do consulting and contracting when I'm not working on my own projects or playing bandminton.
 
-I do consulting and contracting on the side, as I have built up a wealth of experience and skills over the years through my interests in hobby development.
-My specialties are in NodeJS systems and applications (React Native, React, Electron, etc.) and web development, with a history of extensive work designing, building, and maintaining full stack systems. 
+My specialties are in NodeJS systems (TypeScript) and applications (React Native, React, Electron, etc.) and web development, with a history of extensive work designing, building, and maintaining full stack systems. 
 
-In my free time, I enjoy developing as a hobby. I play badminton, watch anime, and have a love for learning spoken languages. I also go back to my high school to mentor students on CS and Robotics.
+#### Interested in Projects, Articles, and my Portfolio?
+Check out my website [https://michaelrooplall.com/](https://michaelrooplall.com/)
 
-For a full list of my skills, accomplishments, writeups, and projects: feel free to head over to my website [https://michaelrooplall.com/](https://michaelrooplall.com/)
-
-
-### Top Projects
-
-- [Project Stream](https://projectstream.xyz:3000/) // COMING SOON!
-- [React-Native-Positron Quickstart Template](https://github.com/DeveloperBlue/react-native-positron-quickstart)
-- [Hamiltour](https://michaelrooplall.com/projects.html)
-- [Secret Santa Manager](https://secret-santa-manager.glitch.me/)
-- [FIRST Robotics](https://www.team5599.com/)
 
 <div align="right">
     <a align="right" href="https://www.michaelrooplall.com/Projects.html">See more </a>
@@ -85,23 +75,6 @@ For a full list of my skills, accomplishments, writeups, and projects: feel free
     </a>
 </div>
 <br>
-
-### Articles
-
-✨ - Latest | 🚧 - Coming Soon | 💡 - Parking/Writing-As-Requested
-
-- [✨ Building Cross-Platform Applications for Android, iOS, Windows, MacOS, Linux, and Web using React-Native-Web and Electron](https://medium.com/@michaelrooplall)
-- [💡 Adding Hot Module Reloading to Electron with Webpack](https://medium.com/@michaelrooplall)
-- [💡 Adding SVG Support for Android, iOS, and the Web with React Native and React-Native-Web](https://medium.com/@michaelrooplall)
-- [💡 Building secure application APIs with Electron's Context Isolation](https://medium.com/@michaelrooplall)
-- [💡 Packaging an Electron Application for Production and Distribution](https://medium.com/@michaelrooplall)
-- [💡 Deploying your own API to RapidAPI](https://medium.com/@michaelrooplall)
-- [Robotics | The Sentinels Graciously Accept The George Subraj Family Foundation Sponsorship](https://blog.team5599.com/2020/01/the-george-subraj-family-foundation.html)
-- [Robotics | Introduction to Java and FRC Libraries for High School Students - 2016 Lessons Archive](https://www.dropbox.com/sh/at3f8bxcg968pnr/AAANgmZkrAL9IpxEiz7buFxRa?dl=0)
-
-<div align="right">
-    <a align="right" href="https://medium.com/@michaelrooplall">Read more</a>
-</div>
 
 ---
 
@@ -368,10 +341,10 @@ For a full list of my skills, accomplishments, writeups, and projects: feel free
 
 ---
 
-<div align="center">
-    <h4>Spoken Languages / Learning</h4>
-    English - Spanish - French - Mandarin - Korean - Japanese
-</div>
 <br>
 
 ![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
+
+[comment]: <> (Cool CSS injection discovered from https://x.com/gf_256/status/1799197013629645101)
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://wallpapers.com/images/hd/space-art-2560-x-1440-wallpaper-zfc1b8zhkmrt5p5m');]{x0000}$}
