@@ -347,4 +347,4 @@ Check out my website [https://michaelrooplall.com/](https://michaelrooplall.com/
 
 [comment]: <> (Cool CSS injection discovered from https://x.com/gf_256/status/1799197013629645101)
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://wallpapers.com/images/hd/space-art-2560-x-1440-wallpaper-zfc1b8zhkmrt5p5m');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://github.com/developerblue/developerblue/backgrounds/background_1.jpg');]{x0000}$}
