@@ -45,6 +45,3 @@ https://www.michaelrooplall.com/
 ```math
 
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://raw.githubusercontent.com/DeveloperBlue/DeveloperBlue/main/backgrounds/background_2_upscaled.jpg');]{x0000}$} 
-
-
-![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
