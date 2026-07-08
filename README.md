@@ -51,13 +51,12 @@ https://www.linkedin.com/in/michael-rooplall/
 ----
 
 <div align="center">
-    <img align="center" src="https://github-stats-extended.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=dddddd" width="47.85%" />
-    <img align="center" src="https://streak-stats.demolab.com/?user=developerblue&theme=tokyonight" width="50.5%"/>
-  <br/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=developerblue&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=developerblue&theme=transparent&hide_border=true" />
 </div>
 <br>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerblue&theme=tokyonight" with="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerblue&theme=transparent" with="100%"/>
 </div>
 
 ```math
