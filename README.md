@@ -34,8 +34,12 @@ https://www.michaelrooplall.com/
     <img align="center" src="https://github-stats-extended.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=dddddd" width="47.85%" />
     <img align="center" src="https://streak-stats.demolab.com/?user=developerblue&theme=tokyonight" width="50.5%"/>
   <br/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerblue&theme=tokyonight" with="98%"/>
 </div>
+<br>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerblue&theme=tokyonight" with="100%"/>
+</div>
+
 
 <br>
 
