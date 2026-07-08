@@ -32,12 +32,19 @@ https://www.michaelrooplall.com/
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=9b9b9e" width="48%" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight" width="48%"/>
+        <img align="center" src="https://github-stats-extended.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=9b9b9e" width="47.85%" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerblue&theme=tokyonight" width="50.5%"/>
     </a>
 </div>
 
 <br>
+
+
+![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
+
+```math
+
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://raw.githubusercontent.com/DeveloperBlue/DeveloperBlue/main/backgrounds/background_2_upscaled.jpg');]{x0000}$} 
 
 
 ![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
