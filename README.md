@@ -27,8 +27,10 @@ I specialize in the JavaScript ecosystem, with a focus on TypeScript, React (Nex
 
 <br>
 
-Check me out!
-https://www.michaelrooplall.com/
+Check me out!<br>
+https://www.michaelrooplall.com/<br>
+https://www.linkedin.com/in/michael-rooplall/
+
 
 <br>
 
