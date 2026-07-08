@@ -51,8 +51,8 @@ https://www.linkedin.com/in/michael-rooplall/
 ----
 
 <div align="center">
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=developerblue&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=developerblue&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=developerblue&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" width="49%"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=developerblue&theme=transparent&hide_border=true" width="49%"/>
 </div>
 <br>
 <div align="center">
