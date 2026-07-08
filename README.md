@@ -1,6 +1,3 @@
-<img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/headers_no_img_center_text/2.png?raw=true#gh-dark-mode-only" width="100%" />
-<img align="center" src="https://github.com/DeveloperBlue/DeveloperBlue/blob/main/headers_no_img_center_text/1.png?raw=true#gh-light-mode-only" width="100%" />
-
 <div align="center">
   <h3>Full-Stack Software Engineer • TypeScript • 🗽 New York City, New York</h3>
 </div>
@@ -18,21 +15,18 @@
 
 ---
 
-## 👋 Hi, I'm Michael
+## 👋 Hey, I'm Michael
+
+I'm a full stack software developer based in New York City with over **10+ years of experience**. 
+
+I specialize in the JavaScript ecosystem, with a focus on TypeScript, React (NextJS), React Native (expo), NodeJS, and Electron. I build cross-platform apps from unified codebases, and handle everything from the backend, database, deployment and devops, analytics, payment systems, and marketing funnels.
+
+Check me out!
+https://www.michaelrooplall.com/
+
 
 [Skills](https://michaelrooplall.com/Skills) [Projects](https://www.michaelrooplall.com/Projects) [Experience](https://www.michaelrooplall.com/Experience) [Blog](https://www.michaelrooplall.com/Blog) [Links](https://www.michaelrooplall.com/Links) [Contact](https://www.michaelrooplall.com/Contact)
 
-I'm a full stack developer based in New York City with **10+ years of experience** and genuine love for software development. 
-
-I work primarily in the JavaScript ecosystem-- TypeScript, React (NextJS, TanStack, Electron), React Native (expo), and Node.js (+bun). I enjoy building multiplatform apps with unified codebases for the mobile, desktop, and the web. Over the years,
-
-I started coding in middle school, where I built large-scale Roblox games with hundreds of thousands of plays. This gave me the skills to help lead the software development for my high school's FIRST Robotics Team - FRC Team 5599! We competeted in many events, raised tens of thousands of dollars in donations, and won dozens of competitions and awards.
-
-In my spare time, I still mentor students on robotics and software engineering, social media, and marketing.
-
-I have a B.S. in Computer Science from Pace University with Honors, where I competed in hackathons and consulted and shipped a number of products for clients.
-
-> **Fun fact:** I love inguistics and enjoy learning new languages. I'm big on space, and my name is [on a Mars rover!](https://science.nasa.gov/missions/mars-2020-perseverance/nearly-11-million-names-of-earthlings-are-on-mars-perseverance/)
 
 ---
 
