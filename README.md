@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Full-Stack Software Engineer • TypeScript • 🗽 New York City, New York</h3>
 </div>
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -17,18 +17,36 @@
 
 ## 👋 Hey, I'm Michael
 
+<br>
+
 I'm a full stack software developer based in New York City with over **10+ years of experience**. 
 
+<br>
+
 I specialize in the JavaScript ecosystem, with a focus on TypeScript, React (NextJS), React Native (expo), NodeJS, and Electron. I build cross-platform apps from unified codebases, and handle everything from the backend, database, deployment and devops, analytics, payment systems, and marketing funnels.
+
+<br>
 
 Check me out!
 https://www.michaelrooplall.com/
 
+<br>
 
-[Skills](https://michaelrooplall.com/Skills) [Projects](https://www.michaelrooplall.com/Projects) [Experience](https://www.michaelrooplall.com/Experience) [Blog](https://www.michaelrooplall.com/Blog) [Links](https://www.michaelrooplall.com/Links) [Contact](https://www.michaelrooplall.com/Contact)
+<div align="right">
+  <a href="https://michaelrooplall.com/Skills">Skills</a>
+  <a href="https://www.michaelrooplall.com/Projects">Projects</a>
+  <a href="https://www.michaelrooplall.com/Experience">Experience</a>
+  <a href="https://www.michaelrooplall.com/Blog">Blog</a>
+  <a href="https://www.michaelrooplall.com/Links">Links</a>
+  <a href="https://www.michaelrooplall.com/Contact">Contact</a>
+</div>
+
+<br>
 
 
----
+![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
+
+----
 
 <div align="center">
     <img align="center" src="https://github-stats-extended.vercel.app/api?username=developerblue&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&border_color=dddddd" width="47.85%" />
@@ -39,12 +57,6 @@ https://www.michaelrooplall.com/
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerblue&theme=tokyonight" with="100%"/>
 </div>
-
-
-<br>
-
-
-![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
 
 ```math
 
