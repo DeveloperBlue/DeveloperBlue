@@ -19,7 +19,7 @@
 
 <br>
 
-I'm a full stack software developer based in New York City with over **10+ years of experience**. 
+I'm a full stack software developer based in New York City with over **15+ years of experience**. 
 
 <br>
 
