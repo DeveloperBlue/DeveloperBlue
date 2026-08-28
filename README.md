@@ -66,9 +66,6 @@ https://www.linkedin.com/in/michael-rooplall/
 
 <br>
 
-
-![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://banner.michaelrooplall.com/divider-dark.png" />
   <source media="(prefers-color-scheme: light)" srcset="https://banner.michaelrooplall.com/divider-light.png" />
