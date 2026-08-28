@@ -4,14 +4,14 @@
   <img src="https://banner.michaelrooplall.com/banner-light.png" alt="banner" />
 </picture>
 
-<div style="text-align: right">
-  <a href="https://banner.michaelrooplall.com/prev-banner?callback=https%3A%2F%2Fgithub.com%2FDeveloperBlue%2FDeveloperBlue">
+<div align="right">
+  <a href="https://banner.michaelrooplall.com/prev-banner?callback=https%3A%2F%2Fgithub.com%2FDeveloperBlue">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://banner.michaelrooplall.com/nav-back-dark.png" />
       <img src="https://banner.michaelrooplall.com/nav-back-light.png" alt="Previous banner" width="36" height="36" />
     </picture>
   </a>
-  <a href="https://banner.michaelrooplall.com/next-banner?callback=https%3A%2F%2Fgithub.com%2FDeveloperBlue%2FDeveloperBlue">
+  <a href="https://banner.michaelrooplall.com/next-banner?callback=https%3A%2F%2Fgithub.com%2FDeveloperBlue">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://banner.michaelrooplall.com/nav-forward-dark.png" />
       <img src="https://banner.michaelrooplall.com/nav-forward-light.png" alt="Next banner" width="36" height="36" />
