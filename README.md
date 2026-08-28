@@ -34,8 +34,6 @@
   </a>
 </div>
 
----
-
 ## 👋 Hey, I'm Michael
 
 <br>
