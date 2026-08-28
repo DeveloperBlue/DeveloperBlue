@@ -1,3 +1,24 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://banner.michaelrooplall.com/banner-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://banner.michaelrooplall.com/banner-light.png" />
+  <img src="https://banner.michaelrooplall.com/banner-light.png" alt="banner" />
+</picture>
+
+<div style="text-align: right">
+  <a href="https://banner.michaelrooplall.com/prev-banner?callback=https%3A%2F%2Fgithub.com%2Fyou">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://banner.michaelrooplall.com/nav-back-dark.png" />
+      <img src="https://banner.michaelrooplall.com/nav-back-light.png" alt="Previous banner" width="36" height="36" />
+    </picture>
+  </a>
+  <a href="https://banner.michaelrooplall.com/next-banner?callback=https%3A%2F%2Fgithub.com%2Fyou">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://banner.michaelrooplall.com/nav-forward-dark.png" />
+      <img src="https://banner.michaelrooplall.com/nav-forward-light.png" alt="Next banner" width="36" height="36" />
+    </picture>
+  </a>
+</div>
+
 <div align="center">
   <h3>Full-Stack Software Engineer • TypeScript • 🗽 New York City, New York</h3>
 </div>
@@ -48,7 +69,11 @@ https://www.linkedin.com/in/michael-rooplall/
 
 ![Wide vector art of the NYC Skyline](https://github.com/DeveloperBlue/DeveloperBlue/blob/main/footer.png?raw=true)
 
-----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://banner.michaelrooplall.com/divider-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://banner.michaelrooplall.com/divider-light.png" />
+  <img src="https://banner.michaelrooplall.com/divider-light.png" alt="" />
+</picture>
 
 <div align="center">
   <img align="center" src="https://github-stats-extended.vercel.app/api?username=developerblue&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" width="49%"/>
@@ -59,6 +84,8 @@ https://www.linkedin.com/in/michael-rooplall/
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerblue&theme=transparent" with="100%"/>
 </div>
 
-```math
-
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -99; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover!important; width: 100vw; opacity: 0.75; background: url('https://raw.githubusercontent.com/DeveloperBlue/DeveloperBlue/main/backgrounds/background_2_upscaled.jpg');]{x0000}$} 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://banner.michaelrooplall.com/endcap-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://banner.michaelrooplall.com/endcap-light.png" />
+  <img src="https://banner.michaelrooplall.com/endcap-light.png" alt="" />
+</picture>
