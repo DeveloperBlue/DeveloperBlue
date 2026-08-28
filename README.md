@@ -34,15 +34,14 @@
   </a>
 </div>
 
-## 👋 Hey, I'm Michael
+Hey 👋, I'm <b>Michael</b> 
+
+I'm a full-stack software developer based in New York City with over **15+ years of experience**. I got started building games on ROBLOX and I was the lead software developer for my high school's FIRST Robotics Team. In some of my free time, I now teach students robotics, marketing, and other engineering and leadership skills as a mentor.
 
 <br>
 
-I'm a full stack software developer based in New York City with over **15+ years of experience**. 
+I specialize in the JavaScript ecosystem, with a focus on TypeScript, React (NextJS, etc.), React Native (expo), NodeJS, and Electron/Tauri. I also have extensive experience with Flutter, C++, Java, python, and a variety of other programming and scripting languages. I build cross-platform apps with unified codebases, handling everything from the backend, database, deployment and devops, scaling, analytics, payment systems, and marketing funnels.
 
-<br>
-
-I specialize in the JavaScript ecosystem, with a focus on TypeScript, React (NextJS), React Native (expo), NodeJS, and Electron. I build cross-platform apps from unified codebases, and handle everything from the backend, database, deployment and devops, analytics, payment systems, and marketing funnels.
 
 <br>
 
