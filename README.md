@@ -88,14 +88,14 @@ https://www.linkedin.com/in/michael-rooplall/
 
 <img
   align="right"
-  width="45%"
+  width="50%"
   src="https://github-stats-extended.vercel.app/api?username=DeveloperBlue&rank_icon=github&show_icons=true&include_all_commits=true&hide=issues,contribs&show=prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent&hide_border=true"
   alt="GitHub Stats"
 />
 <br />
 <img
   align="right"
-  width="45%"
+  width="50%"
   src="https://streak-stats.demolab.com?user=developerblue&theme=transparent&hide_border=true"
   alt="GitHub Streak"
 />
