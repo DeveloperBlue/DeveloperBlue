@@ -36,12 +36,15 @@
 
 Hey 👋, I'm <b>Michael</b> 
 
-I'm a full-stack software developer based in New York City with over **15+ years of experience**. I got started building games on ROBLOX and I was the lead software developer for my high school's FIRST Robotics Team. In some of my free time, I now teach students robotics, marketing, and other engineering and leadership skills as a mentor.
+I'm a full-stack software developer based in New York City with over **15+ years of experience**.
 
 <br>
 
 I specialize in the JavaScript ecosystem, with a focus on TypeScript, React (NextJS, etc.), React Native (expo), NodeJS, and Electron/Tauri. I also have extensive experience with Flutter, C++, Java, python, and a variety of other programming and scripting languages. I build cross-platform apps with unified codebases, handling everything from the backend, database, deployment and devops, scaling, analytics, payment systems, and marketing funnels.
 
+<br>
+
+ I got started building games on ROBLOX, creating a few front page games and was an early user of the DevEx program. Later, in high school, I was the Lead Programmer for my high school's FIRST Robotics Team, where we competed in a number of state competitions. In some of my free time, I teach students robotics, marketing, and other engineering and leadership skills as a mentor.
 
 <br>
 
@@ -70,12 +73,12 @@ https://www.linkedin.com/in/michael-rooplall/
 </picture>
 
 <div align="center">
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=developerblue&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" width="49%"/>
-  <img align="center" src="https://streak-stats.demolab.com?user=developerblue&theme=transparent&hide_border=true" width="49%"/>
-</div>
-<br>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerblue&theme=transparent" with="100%"/>
+  <img align="center" width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=DeveloperBlue&rank_icon=github&show_icons=true&include_all_commits=true&hide=issues,contribs&show=prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent&hide_border=true"
+    alt="GitHub Stats" />
+  <img align="center" width="49%"
+    src="https://streak-stats.demolab.com?user=developerblue&theme=transparent&hide_border=true"
+    alt="GitHub Streak" />
 </div>
 
 <picture>
