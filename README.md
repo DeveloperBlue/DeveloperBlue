@@ -72,14 +72,31 @@ https://www.linkedin.com/in/michael-rooplall/
   <img src="https://banner.michaelrooplall.com/divider-light.png" alt="" />
 </picture>
 
-<div align="center">
-  <img align="center" width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=DeveloperBlue&rank_icon=github&show_icons=true&include_all_commits=true&hide=issues,contribs&show=prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent&hide_border=true"
-    alt="GitHub Stats" />
-  <img align="center" width="49%"
-    src="https://streak-stats.demolab.com?user=developerblue&theme=transparent&hide_border=true"
-    alt="GitHub Streak" />
-</div>
+<picture>
+  <source
+    srcset="https://dev.crosswordled.com/api/embed/daily.png?theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    align="right"
+    height="320"
+    src="https://dev.crosswordled.com/api/embed/daily.png?theme=light"
+    alt="Today's Crosswordled daily puzzle"
+  />
+</picture>
+
+<img
+  width="45%"
+  src="https://github-stats-extended.vercel.app/api?username=DeveloperBlue&rank_icon=github&show_icons=true&include_all_commits=true&hide=issues,contribs&show=prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent&hide_border=true"
+  alt="GitHub Stats"
+/>
+<br />
+<img
+  width="45%"
+  src="https://streak-stats.demolab.com?user=developerblue&theme=transparent&hide_border=true"
+  alt="GitHub Streak"
+/>
+<br clear="both" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://banner.michaelrooplall.com/endcap-dark.png" />
