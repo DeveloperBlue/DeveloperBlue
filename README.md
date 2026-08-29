@@ -71,7 +71,7 @@ https://www.linkedin.com/in/michael-rooplall/
   <img src="https://banner.michaelrooplall.com/divider-light.png" alt="" />
 </picture>
 
-<a href="https://dev.crosswordled.com/daily">
+<a href="https://dev.crosswordled.com/daily" target="_blank">
   <picture>
     <source
       srcset="https://dev.crosswordled.com/api/embed/daily.png?theme=dark"
