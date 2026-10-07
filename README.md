@@ -71,16 +71,16 @@ https://www.linkedin.com/in/michael-rooplall/
   <img src="https://banner.michaelrooplall.com/divider-light.png" alt="" />
 </picture>
 
-<a href="https://dev.crosswordled.com/daily" target="_blank">
+<a href="https://crosswordled.com/daily" target="_blank">
   <picture>
     <source
-      srcset="https://dev.crosswordled.com/api/embed/daily.png?theme=dark"
+      srcset="https://crosswordled.com/api/embed/daily.png?theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <img
       align="left"
       height="340"
-      src="https://dev.crosswordled.com/api/embed/daily.png?theme=light"
+      src="https://crosswordled.com/api/embed/daily.png?theme=light"
       alt="Today's Crosswordled daily puzzle"
     />
   </picture>
